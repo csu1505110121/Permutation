@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <Windows.h>
+#include "permutation_increase.h"
 #define buf_size 4096
 #define IS_OUTPUT
 char print_str[buf_size];
